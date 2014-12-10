@@ -1,0 +1,6 @@
+F:\Shawon\FTFL Project\SumOfPrimeApp\SumOfPrimeApp\bin\Debug\SumOfPrimeApp.exe.config
+F:\Shawon\FTFL Project\SumOfPrimeApp\SumOfPrimeApp\bin\Debug\SumOfPrimeApp.exe
+F:\Shawon\FTFL Project\SumOfPrimeApp\SumOfPrimeApp\bin\Debug\SumOfPrimeApp.pdb
+F:\Shawon\FTFL Project\SumOfPrimeApp\SumOfPrimeApp\obj\Debug\SumOfPrimeApp.csprojResolveAssemblyReference.cache
+F:\Shawon\FTFL Project\SumOfPrimeApp\SumOfPrimeApp\obj\Debug\SumOfPrimeApp.exe
+F:\Shawon\FTFL Project\SumOfPrimeApp\SumOfPrimeApp\obj\Debug\SumOfPrimeApp.pdb

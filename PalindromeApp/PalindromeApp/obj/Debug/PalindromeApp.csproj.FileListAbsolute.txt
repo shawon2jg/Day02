@@ -1,0 +1,6 @@
+F:\Shawon\FTFL Project\PalindromeApp\PalindromeApp\bin\Debug\PalindromeApp.exe.config
+F:\Shawon\FTFL Project\PalindromeApp\PalindromeApp\bin\Debug\PalindromeApp.exe
+F:\Shawon\FTFL Project\PalindromeApp\PalindromeApp\bin\Debug\PalindromeApp.pdb
+F:\Shawon\FTFL Project\PalindromeApp\PalindromeApp\obj\Debug\PalindromeApp.csprojResolveAssemblyReference.cache
+F:\Shawon\FTFL Project\PalindromeApp\PalindromeApp\obj\Debug\PalindromeApp.exe
+F:\Shawon\FTFL Project\PalindromeApp\PalindromeApp\obj\Debug\PalindromeApp.pdb

@@ -1,0 +1,7 @@
+F:\Shawon\FTFL Project\FirstPrimeApp\FirstPrimeApp\bin\Debug\FirstPrimeApp.exe.config
+F:\Shawon\FTFL Project\Day 02\FirstPrimeApp\FirstPrimeApp\bin\Debug\FirstPrimeApp.exe.config
+F:\Shawon\FTFL Project\Day 02\FirstPrimeApp\FirstPrimeApp\bin\Debug\FirstPrimeApp.exe
+F:\Shawon\FTFL Project\Day 02\FirstPrimeApp\FirstPrimeApp\bin\Debug\FirstPrimeApp.pdb
+F:\Shawon\FTFL Project\Day 02\FirstPrimeApp\FirstPrimeApp\obj\Debug\FirstPrimeApp.csprojResolveAssemblyReference.cache
+F:\Shawon\FTFL Project\Day 02\FirstPrimeApp\FirstPrimeApp\obj\Debug\FirstPrimeApp.exe
+F:\Shawon\FTFL Project\Day 02\FirstPrimeApp\FirstPrimeApp\obj\Debug\FirstPrimeApp.pdb

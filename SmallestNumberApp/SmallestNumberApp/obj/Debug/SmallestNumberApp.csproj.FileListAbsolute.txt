@@ -1,0 +1,12 @@
+F:\Shawon\FTFL Project\SmallestNumberApp\SmallestNumberApp\bin\Debug\SmallestNumberApp.exe.config
+F:\Shawon\FTFL Project\SmallestNumberApp\SmallestNumberApp\bin\Debug\SmallestNumberApp.exe
+F:\Shawon\FTFL Project\SmallestNumberApp\SmallestNumberApp\bin\Debug\SmallestNumberApp.pdb
+F:\Shawon\FTFL Project\SmallestNumberApp\SmallestNumberApp\obj\Debug\SmallestNumberApp.csprojResolveAssemblyReference.cache
+F:\Shawon\FTFL Project\SmallestNumberApp\SmallestNumberApp\obj\Debug\SmallestNumberApp.exe
+F:\Shawon\FTFL Project\SmallestNumberApp\SmallestNumberApp\obj\Debug\SmallestNumberApp.pdb
+F:\Shawon\FTFL Project\Day 02\SmallestNumberApp\SmallestNumberApp\bin\Debug\SmallestNumberApp.exe.config
+F:\Shawon\FTFL Project\Day 02\SmallestNumberApp\SmallestNumberApp\obj\Debug\SmallestNumberApp.exe
+F:\Shawon\FTFL Project\Day 02\SmallestNumberApp\SmallestNumberApp\obj\Debug\SmallestNumberApp.pdb
+F:\Shawon\FTFL Project\Day 02\SmallestNumberApp\SmallestNumberApp\bin\Debug\SmallestNumberApp.exe
+F:\Shawon\FTFL Project\Day 02\SmallestNumberApp\SmallestNumberApp\bin\Debug\SmallestNumberApp.pdb
+F:\Shawon\FTFL Project\Day 02\SmallestNumberApp\SmallestNumberApp\obj\Debug\SmallestNumberApp.csprojResolveAssemblyReference.cache
